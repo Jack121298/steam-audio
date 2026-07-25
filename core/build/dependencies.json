@@ -8,7 +8,7 @@
         },
         "fetch": {
             "git": "https://github.com/google/flatbuffers.git",
-            "tag": "6df40a2471737b27271bdd9b900ab5f3aec746c7"
+            "tag": "82fac326c5981a85233b8ae7e0d7ec8fda432963"
         },
         "configure": {
             "cmake": [
